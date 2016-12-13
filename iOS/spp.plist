@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jabil.xxx</string>
+				<string>com.jabil.spportal</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
