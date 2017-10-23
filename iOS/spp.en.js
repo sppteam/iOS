@@ -202,6 +202,7 @@
             "System-Admin": "System Admin",
             "Market,-Competitor,-Customer": "Market, Competitor, Customer",
             "CRM": "CRM",
+            "Customer-Map": "Customer Map",
 
             //Menu (sub) Title
             "Major-Account-Report": "Major Account Report",
