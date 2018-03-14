@@ -68,8 +68,9 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="quote.plist" />
-    <Content Include="spp.plist" />
+    <Content Include="spp_test.plist" />
     <Content Include="quote_production.plist" />
+    <Content Include="spp_prod.plist" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
